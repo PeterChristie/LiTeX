@@ -1,0 +1,5 @@
+MACRO spam := +*
+
+This is a LiTeX program with macros.
+
+#spam#This text will be both bold and italic#spam#

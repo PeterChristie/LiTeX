@@ -1,0 +1,3 @@
+This is a LiTeX program with modifiers. +Bold+, *italicized* and _underlined_ modifiers are all allowed and can be +*_combined_*+.
+~1~Headers are allowed using tildes.~1~
+=30=As well as font sizes=30=
